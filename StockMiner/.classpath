@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/ryangolmassian/eclipse-workspace/StockMiner/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/ryangolmassian/eclipse-workspace/StockMiner/lib/jsoup-1.11.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ryangolmassian/eclipse-workspace/StockMiner/lib/sqlite-jdbc-3.20.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ryangolmassian/eclipse-workspace/StockMiner/lib/wget-1.4.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JCommon 1.0.23"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JFreeChart 1.0.19"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
